@@ -1,2 +1,3 @@
 # GIT_COURSE
 NEW
+##PROJECT Notes
